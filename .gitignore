@@ -1,0 +1,7 @@
+# protect important files.
+# createe a similar file below and add key, key_secret and token in it.
+
+credentials.py
+__pycache__
+myenv
+.ipynb_checkpoints
