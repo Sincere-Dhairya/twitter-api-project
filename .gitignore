@@ -3,5 +3,8 @@
 
 credentials.py
 __pycache__
-myenv
+myvenv
 .ipynb_checkpoints
+main.ipynb_checkpoints
+Pipfile
+Pipfile.lock
