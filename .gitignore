@@ -5,7 +5,7 @@ credentials.py
 __pycache__
 myvenv
 .ipynb_checkpoints
-#main.ipynb
-#main2.ipynb
+main.ipynb
+main2.ipynb
 Pipfile
 Pipfile.lock
